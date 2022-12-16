@@ -1,0 +1,777 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+body {
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+    background-color: #17181e;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+button {
+    cursor: pointer;
+}
+
+.c1 {
+    padding-top: 100px;
+    width: 100%;
+    height: 705px;
+    background-image: url("https://cdn.discordapp.com/attachments/1042551211041243136/1052760511227371600/image.png");
+    color: white;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.c1 span {
+    color: #f3b666;
+    transition: all 3s;
+}
+
+.c1c1 h1,
+.c1c1 p {
+    color: white;
+    transition: all 3s ease;
+}
+
+.c1c1 {
+    width: 35%;
+}
+
+.c1c1 button {
+    width: 400px;
+    height: 60px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    background-color: #f3b666;
+    letter-spacing: 1px;
+    border: 0px solid transparent;
+    border-radius: 5px;
+}
+
+.c1c1 button:hover {
+    transition: all 0.25s;
+    background-color: #b88a4f;
+}
+
+.c1c2 {
+    width: 560px;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    border-bottom: 2px solid white;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+    margin-left: 100px;
+    background-image: url("https://static-public.klickpages.com.br/uploads/media/file/5522490/aleb.png");
+}
+
+.c2 {
+    height: 150px;
+    background-color: #17181e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.c3 {
+    height: 100%;
+    width: 100%;
+    background-color: #17181e;
+    display: flex;
+    padding-bottom: 30px;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.c3c1 {
+    width: 276px;
+    height: 350px;
+    background-color: #ffd195;
+    border: 5px solid transparent;
+    border-radius: 10px;
+    margin: 0px 15px 0px 15px;
+    transition: all 0.2s;
+}
+
+.c3c1:hover {
+    transition: all 0.2s;
+    border: 5px solid #8d7453;
+}
+
+.c3c1c1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40%;
+}
+
+.c3c1c1 img {
+    height: 150px;
+    width: 150px;
+}
+
+.c3c1c2 {
+    text-align: center;
+    padding: 0px 7px 0px 7px;
+}
+
+.c4 {
+    width: 100%;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #17181e;
+}
+
+.c4c1 {
+    height: 5px;
+    width: 100px;
+    background-color: #8b9bb5;
+}
+
+.c5 {
+    width: 100%;
+    height: 100%;
+    background-color: #17181e;
+    text-align: center;
+    color: white;
+}
+
+.c6 {
+    height: 100%;
+    width: 100%;
+    background-color: #17181e;
+    padding: 30px 0px 30px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.c6c1 {
+    width: 350px;
+    height: 320px;
+    background-color: #ffd195;
+    border: 5px solid transparent;
+    border-radius: 10px;
+    margin: 0px 15px 0px 15px;
+    transition: all 0.2s;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.c6c1c1 {
+    height: 40%;
+    width: 40%;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.c6c1c1 img {
+    height: 100%;
+    width: 100%;
+}
+
+.c6c1:hover {
+    transition: all 0.2s;
+    border: 5px solid #8d7453;
+}
+
+.c7 {
+    height: 100px;
+    width: 100%;
+    background-color: #17181e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.c7 button {
+    width: 365px;
+    height: 50px;
+    background-color: #f3b666;
+    color: white;
+    font-size: 20px;
+    border: 3px solid transparent;
+    border-radius: 5px;
+    transition: all 0.2s;
+}
+
+.c7 button:hover {
+    border: 3px solid #523714;
+    transition: all 0.2s;
+}
+
+.c8 {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.c8 p {
+    font-size: 15px;
+}
+
+.c8c1 {
+    width: 70%;
+    height: 95%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.c8c1c1 {
+    height: 100%;
+    width: 50%;
+}
+
+.c8c1c2 {
+    height: 850px;
+    width: 50%;
+    background-image: url("https://static-public.klickpages.com.br/uploads/media/file/5513860/download.jpg");
+}
+
+.c8c1c1c1 {
+    width: 100%;
+}
+
+.c8c1c1c2 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: top;
+}
+
+.c8c1c1c2c1 img {
+    height: 25px;
+    width: 40px;
+    margin-top: 20px;
+}
+
+.c9 {
+    height: 150px;
+    background-color: #17181e;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.c9 button {
+    height: 65px;
+    width: 300px;
+    font-size: 17px;
+    color: white;
+    background-color: #f3b666;
+    border: 3px solid transparent;
+    transition: all 0.2s;
+    border-radius: 5px;
+}
+
+.c9 button:hover {
+    transition: all 0.2s;
+    border: 3px solid #523714;
+}
+
+.c10 {
+    height: 100x;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+
+.c11 {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.c11c1 {
+    width: 75%;
+    height: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.c11 img {
+    height: 100px;
+    width: 100px;
+}
+
+.c11c1c1 {
+    height: 350px;
+    width: 478px;
+    margin-top: 15px;
+}
+
+.c11c1c1c1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.c12 {
+    height: 100%;
+    width: 100%;
+    background-color: #17181e;
+    text-align: center;
+    color: white;
+    margin-bottom: 35px;
+}
+
+.c12c1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.c12c1c1,
+.c12c1c2,
+.c12c1c3,
+.c12c1c4 {
+    height: 100px;
+    width: 120px;
+    background-color: #6b6c77;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0px 15px 0px 15px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.c12 p {
+    margin: 0;
+}
+
+.c13 {
+    height: 35rem;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    background-image: url("https://cdn.discordapp.com/attachments/1042551211041243136/1053092315855601744/image.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.c13 h2 {
+    margin: 0px 15px 0px 15px;
+}
+
+button {
+    letter-spacing: 0.35px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.c13c1 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.c13 button {
+    transition: all 0.2s;
+    height: 70px;
+    width: 350px;
+    font-size: 20px;
+    color: white;
+    background-color: #8b9bb5;
+    border: 2px solid transparent;
+    border-radius: 6px;
+}
+
+.c13 button:hover {
+    transition: all 0.2s;
+    background-color: #6b6c77;
+}
+
+.c14 {
+    color: white;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    margin: 50px 0px 50px 0px;
+}
+
+.c15 {
+    height: 100%;
+    width: 60%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.c15c1 {
+    display: flex;
+    height: 416px;
+    width: 495px;
+    background-color: #ffd195;
+    border-radius: 10px;
+    margin: 20px 0px 20px 0px;
+    border: 2px solid #8b9bb5;
+}
+
+.c15c1c1 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 17%;
+}
+
+.quotes {
+    height: 60px;
+    width: 60px;
+}
+
+.autora {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 3px solid #b88a4f;
+    margin-bottom: 5px;
+}
+
+.c15c1c2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 83%;
+}
+
+.c15c1c2c1 p,
+.c15c1c2c1 h1 {
+    margin: 0;
+}
+
+.c15c1c2c1 h1 {
+    font-size: 20px;
+}
+
+.paragrafo {
+    margin-left: 10px;
+    font-size: 18px;
+}
+
+.c15c1c2c1 {
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0px 0px 10px 10px;
+}
+
+.c16 {
+    width: 100%;
+    height: 100%;
+    padding: 50px 0px 50px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.c16c1 {
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.c16c1c2 {
+    color: white;
+    width: 70%;
+}
+
+.c17 {
+    width: 60%;
+    height: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+    padding-bottom: 50px;
+}
+
+.c17c1 p {
+    font-size: 17px;
+}
+
+.c17c2 {
+    border: 2px solid red;
+    padding: 30px 80px 30px 80px;
+    border-radius: 25px;
+}
+
+.c17c2 button {
+    width: 100%;
+    height: 50px;
+    background-color: #f3b666;
+    color: white;
+    font-weight: bold;
+    border: 3px solid transparent;
+    border-radius: 5px;
+    transition: all 0.2s;
+}
+
+.c17c2 button:hover {
+    transition: all 0.2s;
+    border: 3px solid #b88a4f;
+}
+
+.c17c2 h1 {
+    font-size: 50px;
+}
+
+.c18 {
+    width: 65%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+
+.c18c2 {
+    padding: 0px 17px 0px 17px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+}
+
+.c19 {
+    height: 120px;
+    width: 100%;
+    background: linear-gradient(to left, rgb(223, 240, 255), rgb(255, 252, 236));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.c19 h1, .c19 p {
+    margin: 0;
+}
+
+@media (max-width: 1717px) {
+    .c18 {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .c18c1 {
+        display: none;
+    }
+
+    .c18c2 {
+        width: 65%;
+    }
+}
+
+@media (max-width: 1090px) {
+    .c18 {
+        width: 90%;
+    }
+
+    .c18c2 {
+        width: 100%;
+    }
+}
+
+
+@media (max-width: 767px) {
+    .c17 {
+        width: 80%;
+    }
+}
+
+@media (max-width: 520px) {
+    .c17 {
+        width: 90%;
+    }
+}
+
+@media (max-width: 417px) {
+    .c17c2 h1 {
+        font-size: 35px;
+    }
+}
+
+@media (max-width: 1500px) {
+    .c17 {
+        flex-direction: column;
+    }
+
+    .c17c1 {
+        text-align: center;
+    }
+}
+
+@media (max-width: 1369px) {
+    .c16c1 {
+        text-align: center;
+        flex-direction: column;
+        width: 100%;
+    }
+}
+
+@media (max-width: 540px) {
+    .c16c1c2 {
+        width: 90%;
+    }
+}
+
+@media (max-width: 525px) {
+    .c15c1 {
+        width: 95%;
+    }
+}
+
+@media (max-width: 454px) {
+    .autora {
+        width: 50px;
+        height: 50px;
+    }
+
+    .c15c1c2c1 {
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 828px) {
+    .c15 {
+        width: 100%;
+    }
+}
+
+@media (max-width: 476px) {
+    .paragrafo {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 449px) {
+    .c12c1c3 {
+        margin-top: 30px;
+    }
+}
+
+@media (max-width: 599px) {
+    .c12c1c4 {
+        margin-top: 30px;
+    }
+}
+
+@media (max-width: 1284px) {
+    .c8c1 {
+        width: 100%;
+    }
+
+    .c8c1c2 {
+        display: none;
+    }
+
+    .c8c1c1 {
+        width: 80%;
+    }
+}
+
+@media (max-width: 676px) {
+    .c8c1c1 {
+        width: 100%;
+    }
+
+    .c8c1c1c1 h1,
+    .c8c1c1c1 p {
+        margin: 0px 15px 0px 15px;
+    }
+}
+
+@media (max-width: 1170px) {
+    .c6c1 {
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width: 1224px) {
+    .c3c1 {
+        margin: 15px 15px 0px 15px;
+    }
+}
+
+@media (max-width: 464px) {
+    .c2 {
+        text-align: center;
+    }
+
+    .c2 h1 {
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+}
+
+@media (max-width: 549px) {
+    .c11c1 {
+        width: 100%;
+    }
+
+    .c11c1c1 {
+        width: 100%;
+        margin-left: 15px;
+    }
+}
+
+@media (max-width: 1186px) {
+    .c1 {
+        height: 100%;
+        flex-direction: column;
+        padding-top: 0px;
+    }
+
+    .c1c2 {
+        display: none;
+    }
+
+    .c1c1 {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .c1c1 p,
+    .c1c1 h1 {
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+
+    .c1c1 button {
+        font-size: 16px;
+        width: 300px;
+    }
+}
