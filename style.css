@@ -32,7 +32,6 @@ button {
 }
 
 
-
 .c1 span {
     color: #ffa735;
     transition: all 3s;
@@ -42,6 +41,7 @@ button {
 .c1c1 p {
     color: white;
     transition: all 3s ease;
+    animation: 4.5s ease-in-out infinite;
 }
 
 .c1c1 {

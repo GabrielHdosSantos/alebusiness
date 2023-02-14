@@ -3,8 +3,6 @@ var x = setInterval(function() {
 console.log('teste');
 }, 1000);
 
-
-
 // C O U N T D O W N //
 
 // Set the date we're counting down to
