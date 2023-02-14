@@ -10,9 +10,13 @@ body {
     flex-direction: column;
 }
 
+
+
+
 button {
     cursor: pointer;
 }
+
 
 .c1 {
     padding-top: 100px;
@@ -26,6 +30,8 @@ button {
     flex-direction: row;
     flex-wrap: wrap;
 }
+
+
 
 .c1 span {
     color: #ffa735;
